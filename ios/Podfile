@@ -16,6 +16,10 @@ target 'ReactNativeMLModels' do
 
   pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
 
+  pod 'TfliteReactNative', :path => '../node_modules/tflite-react-native'
+
+  pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
+
   target 'ReactNativeMLModelsTests' do
     inherit! :complete
     # Pods for testing

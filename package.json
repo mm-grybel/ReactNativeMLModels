@@ -13,9 +13,11 @@
     "react": "17.0.1",
     "react-native": "0.64.0",
     "react-native-elements": "^3.3.2",
+    "react-native-image-picker": "^2.3.0",
     "react-native-linear-gradient": "^2.5.6",
     "react-native-safe-area-context": "^3.2.0",
-    "react-native-vector-icons": "^8.1.0"
+    "react-native-vector-icons": "^8.1.0",
+    "tflite-react-native": "0.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.13.13",
